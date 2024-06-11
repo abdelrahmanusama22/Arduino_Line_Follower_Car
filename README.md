@@ -11,7 +11,6 @@ This project is an Arduino-based line-following car. It allows the car to follow
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-- [Arduino Code](#arduino-code)
 
 ## Overview
 
